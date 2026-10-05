@@ -84,7 +84,7 @@ Make sure Python 3 is installed.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-strength-analyzer.git
+git clone https://github.com/thusharcsuvarna18/password-strength-analyzer.git
 ```
 
 Move into the project directory:
